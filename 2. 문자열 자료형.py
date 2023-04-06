@@ -1,0 +1,7 @@
+print('풍선')
+print("나비")
+print("병신")
+print('cex')
+print('느금마')
+print("sex")
+print(2)
